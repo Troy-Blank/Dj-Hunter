@@ -1,0 +1,84 @@
+
+.main {
+  z-index: -1;
+  width: 100%;
+  height: 60rem;
+  position: absolute;
+}
+
+.toppart {
+  color: white;
+  text-align: center;
+  padding-top: 260px;
+}
+
+.hire {
+  font-size: 50px;
+  font-family: 'Fredericka the Great', cursive;
+}
+
+.midpart {
+  width: 100%;
+  background-color: black;
+  padding-top: 100px;
+  padding-left: 70px;
+  padding-bottom: 100px;
+  padding-right: 10rem;
+  margin-top: 300px;
+  margin-right: 15px;
+}
+
+.btmmixer {
+height: 450px;
+width: 630px;
+}
+
+.btmpro{
+  
+}
+
+.midpartbox {
+  background-color: #086972;
+  padding-left: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 0px 50px 0px 50px;
+  border: 4px solid;
+  border-color: #ff427f;
+  height: 80%;
+}
+
+.midparttext {
+  margin-top: 50px;
+  font-family: 'Pangolin', cursive;
+  color: white;
+  padding-right: 20%;
+  text-align: center;
+  float: right;
+  background-color: #;
+  font-size: 1.5rem;
+}
+.trademark{
+  padding: 30px;
+  text-align: center;
+  margin-top: 150px;
+  background-color: #086972;
+  position: static;
+  border: 2px solid;
+  border-color: #ff427f;
+}
+.mail{
+  font-size:15px;
+  padding: 10px;
+  border: solid 1px;
+  border-radius: 500px 500px 500px 500px;
+margin: 5px;
+}
+
+#brand {
+  color: white;
+  font-family: 'Bungee Outline', cursive;
+  font-size: 1.7rem;
+  padding-left: 1rem;
+  padding-top: 1rem
+}
